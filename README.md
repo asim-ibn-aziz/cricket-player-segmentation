@@ -1,5 +1,8 @@
 # Cricket Player Performance Analysis
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asim-ibn-aziz/cricket-player-segmentation/blob/main/Cricket_Model.ipynb)
+[![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.org/github/asim-ibn-aziz/cricket-player-segmentation/blob/main/Cricket_Model.ipynb)
+
 ## Objective
 
 The project aims to analyze cricket player performance data using clustering techniques to identify player segments based on their batting statistics.
